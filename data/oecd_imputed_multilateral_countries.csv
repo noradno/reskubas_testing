@@ -1,0 +1,206 @@
+aidtype_label_en,donor,donor_label_en,recipient,recipient_label_en,obs_time,obs_value,powercode_label_en,datatype_label_en
+Imputed Multilateral ODA,8,Norway,10001,"Africa, Total",2021,583.32,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,10002,"North of Sahara, Total",2021,21.56,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,10003,"South of Sahara, Total",2021,520.23,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,10004,"America, Total",2021,59.13,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,10005,"Caribbean & Central America, Total",2021,31.48,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,10006,"South America, Total",2021,23.04,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,10007,"Asia, Total",2021,235.51,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,10008,"Far East Asia, Total",2021,47.97,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,10009,"South & Central Asia, Total",2021,122.5,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,10010,"Europe, Total",2021,18.03,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,10011,"Middle East, Total",2021,59.93,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,10012,"Oceania, Total",2021,10.93,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,10013,"CEEC, Total",2021,0.64,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,10014,"NIS, Total",2021,25.45,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,10016,"LDCs, Total",2021,468.07,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,10017,"Other LICs, Total",2021,13.69,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,10018,"LMICs, Total",2021,262.31,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,10019,"UMICs, Total",2021,84.15,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,10024,Part I Unallocated by income,2021,256.15,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,10030,"HIPCs, Total",2021,426.62,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,10040,"ACP Countries, Total",2021,506.13,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,10041,"Club du Sahel, Total",2021,66.91,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,10045,WB-L,2021,372.64,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,10046,WB-LM,2021,360.04,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,10047,WB-UM,2021,92.79,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,10048,WB-H,2021,0.98,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,10049,WB-NC,2021,1.76,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,10050,"Eastern Africa, Total",2021,268.59,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,10051,"Middle Africa, Total",2021,79.89,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,10052,"Southern Africa, Total",2021,18.99,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,10053,"Western Africa, Total",2021,149.23,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,10054,"Caribbean, Total",2021,16.25,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,10055,"Central America, Total",2021,15.15,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,10057,"Melanesia, Total",2021,7.33,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,10058,"Micronesia, Total",2021,2.18,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,10059,"Polynesia, Total",2021,1.02,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,10100,"Developing Countries, Total",2021,1084.37,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,10200,"All Recipients, Total",2021,1084.37,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,10201,"Land-Locked countries, Total",2021,265.64,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,10202,"Small island states, Total",2021,39.69,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,10203,"Fragile states, Total",2021,598.16,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,1027,"Eastern Africa, regional",2021,0.27,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,1028,"Middle Africa, regional",2021,0.01,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,1029,"Southern Africa, regional",2021,0.04,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,1030,"Western Africa, regional",2021,0.93,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,1031,"Caribbean, regional",2021,0.23,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,1032,"Central America, regional",2021,0.04,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,1034,"Micronesia, regional",2021,0.54,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,130,Algeria,2021,1.67,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,133,Libya,2021,1.09,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,136,Morocco,2021,5.8,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,139,Tunisia,2021,3.74,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,142,Egypt,2021,9.25,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,189,"North of Sahara, regional",2021,0,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,218,South Africa,2021,9.02,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,225,Angola,2021,4.81,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,227,Botswana,2021,3.3,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,228,Burundi,2021,10.34,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,229,Cameroon,2021,12.7,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,230,Cabo Verde,2021,1.21,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,231,Central African Republic,2021,9.1,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,232,Chad,2021,10.78,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,233,Comoros,2021,1.81,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,234,Congo,2021,5.33,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,235,Democratic Republic of the Congo,2021,35.16,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,236,Benin,2021,5.39,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,238,Ethiopia,2021,35.54,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,239,Gabon,2021,0.56,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,240,Gambia,2021,2.64,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,241,Ghana,2021,10.95,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,243,Guinea,2021,8.14,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,244,Guinea-Bissau,2021,2.48,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,245,Equatorial Guinea,2021,0.58,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,247,Côte d'Ivoire,2021,13.59,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,248,Kenya,2021,22.4,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,249,Lesotho,2021,2.42,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,251,Liberia,2021,7.45,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,252,Madagascar,2021,12.34,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,253,Malawi,2021,12.46,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,255,Mali,2021,7.45,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,256,Mauritania,2021,3.11,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,257,Mauritius,2021,0.24,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,259,Mozambique,2021,19.94,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,260,Niger,2021,15.3,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,261,Nigeria,2021,37.49,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,265,Zimbabwe,2021,13.38,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,266,Rwanda,2021,12.5,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,268,Sao Tome and Principe,2021,0.88,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,269,Senegal,2021,8.24,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,271,Eritrea,2021,1.49,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,272,Sierra Leone,2021,5.61,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,273,Somalia,2021,11.73,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,274,Djibouti,2021,1.64,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,275,Namibia,2021,2.09,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,276,Saint Helena,2021,0,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,278,Sudan,2021,32.42,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,279,South Sudan,2021,19.6,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,280,Eswatini,2021,2.11,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,282,Tanzania,2021,24.31,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,283,Togo,2021,3.54,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,285,Uganda,2021,26.49,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,287,Burkina Faso,2021,15.71,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,288,Zambia,2021,9.7,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,289,"South of Sahara, regional",2021,3.54,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,298,"Africa, regional",2021,41.53,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,336,Costa Rica,2021,0.97,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,338,Cuba,2021,6.65,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,340,Dominican Republic,2021,1.1,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,342,El Salvador,2021,1.99,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,347,Guatemala,2021,2.82,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,349,Haiti,2021,5.27,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,351,Honduras,2021,2.84,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,352,Belize,2021,1.22,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,354,Jamaica,2021,0.32,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,358,Mexico,2021,2.7,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,364,Nicaragua,2021,1.59,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,366,Panama,2021,0.98,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,377,Antigua and Barbuda,2021,0,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,378,Dominica,2021,0.44,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,381,Grenada,2021,0.36,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,383,Saint Lucia,2021,1.12,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,384,Saint Vincent and the Grenadines,2021,0.74,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,385,Montserrat,2021,0,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,389,"Caribbean & Central America, regional",2021,0.09,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,425,Argentina,2021,1.32,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,428,Bolivia,2021,1.64,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,431,Brazil,2021,1.55,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,437,Colombia,2021,3.38,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,440,Ecuador,2021,1.87,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,446,Guyana,2021,0.32,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,451,Paraguay,2021,0.6,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,454,Peru,2021,2.46,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,457,Suriname,2021,0.08,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,463,Venezuela,2021,1.68,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,489,"South America, regional",2021,8.14,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,498,"America, regional",2021,4.6,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,540,Iran,2021,0.93,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,543,Iraq,2021,4.71,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,549,Jordan,2021,8.85,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,55,Türkiye,2021,2.4,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,550,West Bank and Gaza Strip,2021,13.99,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,555,Lebanon,2021,4.26,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,57,Kosovo,2021,1.36,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,573,Syrian Arab Republic,2021,9.13,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,580,Yemen,2021,14.96,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,589,"Middle East, regional",2021,3.1,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,610,Armenia,2021,1.47,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,611,Azerbaijan,2021,0.95,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,612,Georgia,2021,2.21,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,613,Kazakhstan,2021,1.07,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,614,Kyrgyzstan,2021,2.36,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,615,Tajikistan,2021,2.65,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,616,Turkmenistan,2021,2.28,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,617,Uzbekistan,2021,5.96,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,619,"Central Asia, regional",2021,0.13,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,625,Afghanistan,2021,20.36,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,63,Serbia,2021,1.49,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,630,Bhutan,2021,0.8,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,635,Myanmar,2021,9.07,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,64,Bosnia and Herzegovina,2021,1.38,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,640,Sri Lanka,2021,2.91,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,645,India,2021,18.48,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,65,Montenegro,2021,0.46,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,655,Maldives,2021,2.03,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,66,North Macedonia,2021,0.84,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,660,Nepal,2021,10.21,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,665,Pakistan,2021,19.69,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,666,Bangladesh,2021,17.84,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,679,"South Asia, regional",2021,2.03,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,689,"South & Central Asia, regional",2021,0,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,71,Albania,2021,0.64,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,728,Cambodia,2021,3.08,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,730,China (People's Republic of),2021,3.57,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,738,Indonesia,2021,8.6,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,740,Democratic People's Republic of Korea,2021,0.31,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,745,Lao People's Democratic Republic,2021,2.13,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,751,Malaysia,2021,1.21,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,753,Mongolia,2021,4.71,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,755,Philippines,2021,4.93,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,764,Thailand,2021,3.69,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,765,Timor-Leste,2021,2.9,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,769,Viet Nam,2021,7.83,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,789,"Far East Asia, regional",2021,5,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,798,"Asia, regional",2021,5.11,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,832,Fiji,2021,2.26,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,836,Kiribati,2021,0.05,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,845,Nauru,2021,0,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,85,Ukraine,2021,4.4,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,854,Vanuatu,2021,0.22,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,856,Niue,2021,0.07,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,859,Marshall Islands,2021,0.09,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,86,Belarus,2021,0.67,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,860,Micronesia,2021,1.46,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,861,Palau,2021,0.03,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,862,Papua New Guinea,2021,4.21,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,866,Solomon Islands,2021,0.64,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,868,Tokelau,2021,0.01,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,870,Tonga,2021,0.52,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,872,Tuvalu,2021,0.26,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,88,States Ex-Yugoslavia unspecified,2021,0,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,880,Samoa,2021,0.17,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,889,"Oceania, regional",2021,0.39,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,89,"Europe, regional",2021,2.96,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,93,Moldova,2021,1.43,Millions,Current Prices
+Imputed Multilateral ODA,8,Norway,9998,"Developing countries, unspecified",2021,177.46,Millions,Current Prices
